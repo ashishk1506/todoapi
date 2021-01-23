@@ -17,9 +17,10 @@
   ### 4. /updateById/:id
      #### METHOD PUT
      To update existing data in table with given id
+     use key -task
      
   ### 5. /deleteById/:id
       #### METHOD DELETE
       To delete given record from table with its id
       
-      use x-www-form-urlencoded in POSTMAN to test the api
+  ### use x-www-form-urlencoded in POSTMAN to test the api
